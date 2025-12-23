@@ -6,7 +6,11 @@
 
 A comprehensive real-time portfolio analytics dashboard that brings quantitative analysis and modern portfolio theory to life. Built with Python, Streamlit, and Plotly, this tool calculates 15+ risk metrics, performs mean-variance optimization, runs Monte Carlo simulations, and visualizes portfolio performance against benchmarks.
 
-![Dashboard Preview](https://via.placeholder.com/900x500?text=Portfolio+Dashboard+Preview)
+
+
+https://github.com/user-attachments/assets/fecba18c-a8b5-49be-a3fe-64b9271c7620
+
+
 
 ---
 
